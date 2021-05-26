@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<hr>
+
 我是SN-Grotesque<br>[I'm SN-Grotesque]
 
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主<br>[I am a person who likes code, painting and music, and also a video blogger.]
@@ -8,7 +10,8 @@
 
 主要使用的语言有C/C++,Java,Python,Linux Shell，HTML/CSS/JS以及其他的一些语言<br>[The main programming languages are C / C + +, Java, python, Linux shell, HTML / CSS / JS and so on]
 
-我也非常喜欢研究网络安全，希望可以有同好一起交流<br>[I also like to study network security very much, hope to communicate with people who like network security equally]
+<span style="color:red;">我也非常喜欢研究网络安全，希望可以有同好一起交流<br>
+[I also like to study network security very much, hope to communicate with people who like network security equally]<span>
 
 谢谢！<br>[Tanks!]
 
