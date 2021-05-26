@@ -28,7 +28,7 @@ I also like to study network security very much, hope to communicate with people
 谢谢！<br>
 <strong>Tanks!</strong>
 
-# Avocation 👋
+# Avocation(Hobby) 👋
 
 - <s>Cosplay</s>
 - <s>喝酒(Drink)</s>
