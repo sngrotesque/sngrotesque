@@ -1,4 +1,3 @@
-<base target=_blank>
 # About 👋
 
 你们好~我是SN-Grotesque<br>
