@@ -10,8 +10,7 @@
 
 主要使用的语言有C/C++,Java,Python,Linux Shell，HTML/CSS/JS以及其他的一些语言<br>[The main programming languages are C / C + +, Java, python, Linux shell, HTML / CSS / JS and so on]
 
-<span style="color:red;">我也非常喜欢研究网络安全，希望可以有同好一起交流<br>
-[I also like to study network security very much, hope to communicate with people who like network security equally]<span>
+我也非常喜欢研究网络安全，希望可以有同好一起交流<br>[I also like to study network security very much, hope to communicate with people who like network security equally]
 
 谢谢！<br>[Tanks!]
 
