@@ -9,13 +9,12 @@ I am a person who likes code, painting and music, and also a video blogger.
 我在
 - <a href="https://www.pixiv.net/users/38279179">Pixiv</a>
 - <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">Youtube</a>
-- <a href="https://space.bilibili.com/27958784">哔哩哔哩</a>
+- <a href="https://space.bilibili.com/27958784">哔哩哔哩 - bilibili</a>
 - <a href="https://soundcloud.com/sngrotesque">Soundcloud</a>
-- <a href="https://twitter.com/SNGOfficial4">Twitter</a>
-- <a href="https://afdian.net/@sngrotesque">爱发电</a>
-- <a href="https://music.163.com/#/user/home?id=1686139386">网易云音乐</a>
+- <a href="https://twitter.com/SNGOfficial4">推特 - Twitter</a>
+- <a href="https://afdian.net/@sngrotesque">爱发电 - afdian</a>
+- <a href="https://music.163.com/#/user/home?id=1686139386">网易云音乐 - Netease cloud music</a>
 - <a href="https://www.zhihu.com/people/kianakaslana-16">知乎</a>
-- <a href="https://twitter.com/SNGOfficial4">知乎</a>
 
 等平台都有账号，欢迎关注我<br>
 I have accounts on pixiv, youtube, BiliBili, Soundcloud, twitter，Afdian and other platforms. Please follow me.
