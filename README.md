@@ -14,7 +14,7 @@ I am a person who likes code, painting and music, and also a video blogger.
 - <a href="https://twitter.com/SNGOfficial4">推特 - Twitter</a>
 - <a href="https://afdian.net/@sngrotesque">爱发电 - afdian</a>
 - <a href="https://music.163.com/#/user/home?id=1686139386">网易云音乐 - Netease cloud music</a>
-- <a href="https://www.zhihu.com/people/kianakaslana-16">知乎</a>
+- <a href="https://www.zhihu.com/people/kianakaslana-16">知乎 - zhihu</a>
 
 等平台都有账号，欢迎关注我<br>
 I have accounts on pixiv, youtube, BiliBili, Soundcloud, twitter，Afdian and other platforms. Please follow me.
