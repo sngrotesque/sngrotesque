@@ -1,7 +1,7 @@
 # About 👋
 
-你们好~我是SN-Grotesque<br>
-Hello,I'm SN-Grotesque
+你们好~我是SN-Grotesque，欢迎各位来我的<a href="http://sngrotesque.com">网站</a>看看哦<br>
+Hello,I'm SN-Grotesque，Welcome to my website
 
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主<br>
 I am a person who likes code, painting and music, and also a video blogger.
@@ -13,6 +13,9 @@ I am a person who likes code, painting and music, and also a video blogger.
 - <a href="https://soundcloud.com/sngrotesque">Soundcloud</a>
 - <a href="https://twitter.com/SNGOfficial4">Twitter</a>
 - <a href="https://afdian.net/@sngrotesque">爱发电</a>
+- <a href="https://music.163.com/#/user/home?id=1686139386">网易云音乐</a>
+- <a href="https://www.zhihu.com/people/kianakaslana-16">知乎</a>
+- <a href="https://twitter.com/SNGOfficial4">知乎</a>
 
 等平台都有账号，欢迎关注我<br>
 I have accounts on pixiv, youtube, BiliBili, Soundcloud, twitter，Afdian and other platforms. Please follow me.
@@ -27,6 +30,12 @@ I also like to study network security very much, hope to communicate with people
 
 谢谢！<br>
 <strong>Tanks!</strong>
+
+# Future goals
+
+- 网络安全工程师 - Network Security Engineer
+- 画手 - Painter
+- 全栈工程师 - Full Stack Developer
 
 # Avocation(Hobby) 👋
 
