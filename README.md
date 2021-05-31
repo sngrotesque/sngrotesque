@@ -10,8 +10,6 @@ I am a person who likes code, painting and music, and also a video blogger.
 
 我在
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
-
 - <a href="https://www.pixiv.net/users/38279179">Pixiv</a>
 - <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">Youtube</a>
 - <a href="https://space.bilibili.com/27958784">哔哩哔哩(Bilibili)</a>
@@ -42,6 +40,8 @@ I also like to study network security very much, hope to communicate with people
 - 全栈工程师 - Full Stack Developer
 
 # Avocation(Hobby) 👋
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
 
 - <s>Cosplay</s>
 - <s>喝酒(Drink)</s>
