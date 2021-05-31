@@ -1,4 +1,4 @@
-# About 👋
+# About 🍺
 
 <img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
 
@@ -22,7 +22,7 @@ I am a person who likes code, painting and music, and also a video blogger.
 等平台都有账号，欢迎关注我<br>
 I have accounts on pixiv, youtube, BiliBili, Soundcloud, twitter，Afdian and other platforms. Please follow me.
 
-# Skills 👋
+# Skills 🍻
 
 主要使用的语言有`C/C++`,`Java`,`Python`,`Linux Shell`，`HTML/CSS/JS`以及其他的一些语言<br>
 The main programming languages are `C / C + +`, `Java`, `python`, `Linux shell`, `HTML / CSS / JS` and so on
@@ -36,7 +36,7 @@ I also like to study network security very much, hope to communicate with people
 - 画手 - Painter
 - 全栈工程师 - Full Stack Developer
 
-# Avocation(Hobby) 👋
+# Avocation(Hobby) 🥂
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
 
