@@ -16,6 +16,7 @@ I am a person who likes code, painting and music, and also a video blogger.
 - <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">Youtube</a>
 - <a href="https://space.bilibili.com/27958784">哔哩哔哩 - bilibili</a>
 - <a href="https://soundcloud.com/sngrotesque">Soundcloud</a>
+- <a href="https://sng.fanbox.cc/">Pixiv - Fanbox</a>
 - <a href="https://twitter.com/SNGOfficial4">推特 - Twitter</a>
 - <a href="https://music.163.com/#/user/home?id=1686139386">网易云音乐 - Netease cloud music</a>
 - <a href="https://www.zhihu.com/people/kianakaslana-16">知乎 - zhihu</a>
