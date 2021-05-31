@@ -33,6 +33,7 @@ I also like to study network security very much, hope to communicate with people
 # Future goals
 
 - 网络安全工程师 - Network Security Engineer
+<img href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true)" align="right">
 - 画手 - Painter
 - 全栈工程师 - Full Stack Developer
 
@@ -43,8 +44,6 @@ I also like to study network security very much, hope to communicate with people
 - 编曲(Making music)
 - 绘画(painting)
 - 等等...(and so on....)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact)
 
