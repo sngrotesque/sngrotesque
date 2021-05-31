@@ -30,9 +30,6 @@ The main programming languages are `C / C + +`, `Java`, `python`, `Linux shell`,
 我也非常喜欢研究网络安全，希望可以有同好一起交流<br>
 I also like to study network security very much, hope to communicate with people who like network security equally
 
-谢谢！<br>
-<strong>Tanks!</strong>
-
 # Future goals
 
 - 网络安全工程师 - Network Security Engineer
