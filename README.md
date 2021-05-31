@@ -1,5 +1,7 @@
 # About 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
+
 你们好~我是SN-Grotesque，欢迎各位来我的<a href="http://sngrotesque.com">网站</a>看看哦<br>
 Hello,I'm SN-Grotesque，Welcome to my website
 
@@ -7,12 +9,14 @@ Hello,I'm SN-Grotesque，Welcome to my website
 I am a person who likes code, painting and music, and also a video blogger.
 
 我在
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
+
 - <a href="https://www.pixiv.net/users/38279179">Pixiv</a>
 - <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">Youtube</a>
 - <a href="https://space.bilibili.com/27958784">哔哩哔哩 - bilibili</a>
 - <a href="https://soundcloud.com/sngrotesque">Soundcloud</a>
 - <a href="https://twitter.com/SNGOfficial4">推特 - Twitter</a>
-- <a href="https://afdian.net/@sngrotesque">爱发电 - afdian</a>
 - <a href="https://music.163.com/#/user/home?id=1686139386">网易云音乐 - Netease cloud music</a>
 - <a href="https://www.zhihu.com/people/kianakaslana-16">知乎 - zhihu</a>
 
@@ -33,7 +37,6 @@ I also like to study network security very much, hope to communicate with people
 # Future goals
 
 - 网络安全工程师 - Network Security Engineer
-<img href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true)" align="right">
 - 画手 - Painter
 - 全栈工程师 - Full Stack Developer
 
@@ -45,6 +48,6 @@ I also like to study network security very much, hope to communicate with people
 - 绘画(painting)
 - 等等...(and so on....)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact)
-
 > 技术造就我们，也能毁灭我们 Technology makes us, and it can destroy us.
+
+-># 如果你有钱，可以请你赞助我🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕Thanks.<a href="https://afdian.net/@sngrotesque">爱发电 - Afdian</a>
