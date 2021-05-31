@@ -44,7 +44,7 @@ I also like to study network security very much, hope to communicate with people
 - 绘画(painting)
 - 等等...(and so on....)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngrotesque&count_private=true&theme=white&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngrotesque&count_private=true&theme=&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact)
 
