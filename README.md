@@ -18,6 +18,7 @@ I am a person who likes code, painting and music, and also a video blogger.
 - [Twitter(推特)](https://twitter.com/SNGOfficial4) <img src="https://twitter.com/favicon.ico" width="15px" height="15px">
 - [Netease cloud music(网易云音乐)](https://music.163.com/#/user/home?id=1686139386) <img src="http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg" width="15px" height="15px">
 - [Zhihu(知乎)](https://www.zhihu.com/people/kianakaslana-16) <img src="https://www.zhihu.com/favicon.ico" width="15px" height="15px">
+- [Afdian(爱发电)](https://afdian.net/@sngrotesque) <img src="https://afdian.net/favicon.ico" width="15px" height="15px">
 
 等平台都有账号，欢迎关注我<br>
 I have accounts on pixiv, youtube, BiliBili, Soundcloud, twitter，Afdian and other platforms. Please follow me.
