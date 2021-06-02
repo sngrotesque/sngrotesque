@@ -10,13 +10,13 @@ I am a person who likes code, painting and music, and also a video blogger.
 
 我在
 
-- <a href="https://www.pixiv.net/users/38279179" target="_blank">Pixiv</a>
-- <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">Youtube</a>
-- <a href="https://space.bilibili.com/27958784">哔哩哔哩(Bilibili)</a>
+- [Pixiv](https://www.pixiv.net/users/38279179)
+- [Youtube](https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured)
+- [哔哩哔哩(Bilibili)](https://space.bilibili.com/27958784)
 - <a href="https://soundcloud.com/sngrotesque">Soundcloud</a>
 - <a href="https://sng.fanbox.cc/">PixivFanbox</a>
 - <a href="https://twitter.com/SNGOfficial4">Twitter(推特)</a>
-- <a href="https://music.163.com/#/user/home?id=1686139386">Netease cloud music(网易云音乐)</a>
+- [Netease cloud music(网易云音乐)](https://music.163.com/#/user/home?id=1686139386)
 - <a href="https://www.zhihu.com/people/kianakaslana-16">Zhihu(知乎)</a>
 
 等平台都有账号，欢迎关注我<br>
