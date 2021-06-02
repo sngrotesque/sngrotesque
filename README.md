@@ -10,14 +10,14 @@ I am a person who likes code, painting and music, and also a video blogger.
 
 我在
 
-- [Pixiv](https://www.pixiv.net/users/38279179)
-- [Youtube](https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured)
-- [哔哩哔哩(Bilibili)](https://space.bilibili.com/27958784)
-- [Soundcloud](https://soundcloud.com/sngrotesque)
-- [PixivFanbox](https://sng.fanbox.cc/)
-- [Twitter(推特)](https://twitter.com/SNGOfficial4)
-- [Netease cloud music(网易云音乐)](https://music.163.com/#/user/home?id=1686139386)
-- [Zhihu(知乎)](https://www.zhihu.com/people/kianakaslana-16)
+- [Pixiv](https://www.pixiv.net/users/38279179) <img src="https://www.pixiv.net/favicon.ico" width="15px" height="15px">
+- [Youtube](https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured) <img src="https://www.youtube.com/favicon.ico" width="15px" height="15px">
+- [哔哩哔哩(Bilibili)](https://space.bilibili.com/27958784) <img src="https://www.bilibili.com/favicon.ico" width="15px" height="15px">
+- [Soundcloud](https://soundcloud.com/sngrotesque) <img src="https://soundcloud.com/favicon.ico" width="15px" height="15px">
+- [PixivFanbox](https://sng.fanbox.cc/) <img src="https://sng.fanbox.cc/favicon.ico" width="15px" height="15px">
+- [Twitter(推特)](https://twitter.com/SNGOfficial4) <img src="https://twitter.com/favicon.ico" width="15px" height="15px">
+- [Netease cloud music(网易云音乐)](https://music.163.com/#/user/home?id=1686139386) <img src="http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg" width="15px" height="15px">
+- [Zhihu(知乎)](https://www.zhihu.com/people/kianakaslana-16) <img src="https://www.zhihu.com/favicon.ico" width="15px" height="15px">
 
 等平台都有账号，欢迎关注我<br>
 I have accounts on pixiv, youtube, BiliBili, Soundcloud, twitter，Afdian and other platforms. Please follow me.
