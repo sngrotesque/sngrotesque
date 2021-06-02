@@ -13,11 +13,11 @@ I am a person who likes code, painting and music, and also a video blogger.
 - [Pixiv](https://www.pixiv.net/users/38279179)
 - [Youtube](https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured)
 - [哔哩哔哩(Bilibili)](https://space.bilibili.com/27958784)
-- <a href="https://soundcloud.com/sngrotesque">Soundcloud</a>
-- <a href="https://sng.fanbox.cc/">PixivFanbox</a>
-- <a href="https://twitter.com/SNGOfficial4">Twitter(推特)</a>
+- [Soundcloud](https://soundcloud.com/sngrotesque)
+- [PixivFanbox](https://sng.fanbox.cc/)
+- [Twitter(推特)](https://twitter.com/SNGOfficial4)
 - [Netease cloud music(网易云音乐)](https://music.163.com/#/user/home?id=1686139386)
-- <a href="https://www.zhihu.com/people/kianakaslana-16">Zhihu(知乎)</a>
+- [Zhihu(知乎)](https://www.zhihu.com/people/kianakaslana-16)
 
 等平台都有账号，欢迎关注我<br>
 I have accounts on pixiv, youtube, BiliBili, Soundcloud, twitter，Afdian and other platforms. Please follow me.
@@ -50,7 +50,7 @@ I also like to study network security very much, hope to communicate with people
 
 > Technology makes us, and it can destroy us.
 
-- 如果你觉得我的项目不错，那么你可以赞助我🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕，感谢！<a href="https://afdian.net/@sngrotesque">爱发电 - Afdian</a>or<a href="https://sng.fanbox.cc/">PixivFanbox</a>
-- If you think my project is good, then you can sponsor me🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕,Thanks!<a href="https://afdian.net/@sngrotesque">爱发电 - Afdian</a>or<a href="https://sng.fanbox.cc/">PixivFanbox</a>
+- 如果你觉得我的项目不错，那么你可以赞助我🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕，感谢！[爱发电 - Afdian](https://afdian.net/@sngrotesque)or[PixivFanbox](https://sng.fanbox.cc/)
+- If you think my project is good, then you can sponsor me🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕,Thanks![爱发电 - Afdian](https://afdian.net/@sngrotesque)or[PixivFanbox](https://sng.fanbox.cc/)
 
 > Thank you very much.
