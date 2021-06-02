@@ -51,6 +51,6 @@ I also like to study network security very much, hope to communicate with people
 > Technology makes us, and it can destroy us.
 
 - 如果你觉得我的项目不错，那么你可以赞助我🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕，感谢！[爱发电 - Afdian](https://afdian.net/@sngrotesque)or[PixivFanbox](https://sng.fanbox.cc/)
-- If you think my project is good, then you can sponsor me🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕,Thanks![爱发电 - Afdian](https://afdian.net/@sngrotesque)or[PixivFanbox](https://sng.fanbox.cc/)
+- If you think my project is good, then you can sponsor me🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕,Thanks! [爱发电 - Afdian](https://afdian.net/@sngrotesque)or[PixivFanbox](https://sng.fanbox.cc/)
 
 > Thank you very much.
