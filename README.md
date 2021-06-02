@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
 
-你们好~我是SN-Grotesque，欢迎各位来我的<a href="http://sngrotesque.com">网站</a>看看哦<br>
+你们好~我是SN-Grotesque，欢迎各位来我的<a href="http://sngrotesque.com">网站![](http://sngrotesque.com/favicon.ico)</a>看看哦<br>
 Hello,I'm SN-Grotesque，Welcome to my website
 
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主<br>
