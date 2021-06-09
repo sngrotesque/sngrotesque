@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
 
+> [Trash-VV](https://github.com/trash-vv)成员之一，我们随时欢迎你的加入！
+
 你们好~我是SN-Grotesque，欢迎各位来我的<a href="http://sngrotesque.com">网站<img src="http://sngrotesque.com/favicon.ico" width="15px" height="15px"></a>看看哦<br>
 Hello,I'm SN-Grotesque，Welcome to my website
 
