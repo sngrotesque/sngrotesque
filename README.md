@@ -10,6 +10,20 @@ Hello,I'm SN-Grotesque，Welcome to my website
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主<br>
 I am a person who likes code, painting and music, and also a video blogger.
 
+```python
+class master:
+  def __init__(self, name :str, age :int) -> str:
+    self.Name=name
+    self.Age=age
+    
+  def __repr__(self):
+    return "My name is: {0}, Age: {1}".format(self.Name, self.Age)
+
+if __name__ == "__main__":
+  content=master("SN-Grotesque",19)
+  print(content)
+```
+
 我在
 
 - [Pixiv](https://www.pixiv.net/users/38279179) <img src="https://www.pixiv.net/favicon.ico" width="15px" height="15px">
