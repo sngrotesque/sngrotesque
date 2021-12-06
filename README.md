@@ -16,7 +16,7 @@ class master:
     self.Name=name
     self.Age=age
     
-  def __repr__(self):
+  def __repr__(self) -> str:
     return "My name is: {0}, Age: {1}".format(self.Name, self.Age)
 
 if __name__ == "__main__":
