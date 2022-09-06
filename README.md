@@ -8,22 +8,26 @@
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
 我喜欢研究计算机的深层技术与实现算法，渴望使用最短代码完成最高水准。<br>
 > 我可不是一个不善交际的人，但是我已经有一个对象了，他对我非常好。
-> 所以请找对象的请绕路哦。<br>
+> 所以请找对象的绕路哦。<br>
 <br>
 
 ```c
-typedef struct {
-    char *name;
-    char *like;
-    char *love;
-    short age;
-} SN_ctx;
+#include <stdio.h>
+#include <stdlib.h>
 
-SN_ctx *SN = (SN_ctx *)malloc(sizeof(SN_ctx));
-SN->name = "SN-Grotesque";
-SN->like = "Code, Music, Painting";
-SN->love = "QWY~";
-SN->age = 20;
+static void info()
+{
+    typedef struct {
+        char *name, *like, *love;
+        short age;
+    } SN_ctx;
+
+    SN_ctx *SN = (SN_ctx *)malloc(sizeof(SN_ctx));
+    SN->name = "SN-Grotesque";
+    SN->like = "Code, Music, Painting";
+    SN->love = "QWY~";
+    SN->age = 20;
+}
 ```
 
 以下为我的个人主页相关网站传送门
