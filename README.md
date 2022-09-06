@@ -60,10 +60,10 @@ static void info()
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
 
 - <s>Cosplay</s>
-- <s>喝酒(Drink)</s>
-- 编曲(Making music)
-- 绘画(painting)
-- 等等...(and so on....)
+- <s>喝酒</s>
+- 编曲
+- 绘画
+- 等等
 
 > 技术造就我们，也能毁灭我们。
 
