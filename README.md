@@ -59,15 +59,13 @@ static void info()
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
 
-- <s>Cosplay</s>
-- <s>喝酒</s>
-- 编曲
-- 绘画
-- 等等
+| 1              | 2           | 3          | 4          | 5    | 6    |
+| -------------- | ----------- |----------- | ---------- | ---- | ---- |
+| <s>Cosplay</s> | <s>喝酒</s> | 看海绵宝宝 | 和对象亲爱 | 编曲 | 绘画 |
 
 > 技术造就我们，也能毁灭我们。
 
-如果你觉得我的项目不错，那么你可以赞助我🍦/🍟/🍗/🍬/🍷/🍺/🍸/🥝/🍎/☕，非常感谢！<br>
+如果你觉得我的项目不错，那么你可以赞助我🍗/❤/💕，非常感谢！<br>
 [爱发电 - Afdian](https://afdian.net/@sngrotesque)<br>
 [PixivFanbox](https://sng.fanbox.cc/)
 
