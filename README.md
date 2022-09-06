@@ -32,6 +32,7 @@ static void info()
 
 以下为我的个人主页相关网站传送门
 
+<!--
 | 平台名称         | 网站超链接                                     |
 |------------------|------------------------------------------------|
 | Pixiv            | <a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="15px" height="15px"></a> |
@@ -43,6 +44,29 @@ static void info()
 | 网易云音乐       | <a href="https://music.163.com/#/user/home?id=1686139386"><img src="http://s1.music.126.net/style/favicon.ico" width="15px" height="15px"></a> |
 | 知乎             | <a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="15px" height="15px"></a> |
 | 爱发电           | <a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="15px" height="15px"></a> |
+-->
+
+<table>
+    <tr>
+        <td>Pixiv</td>      <td>Youtube</td>     <td>哔哩哔哩</td>    <td>Soundcloud</td>    <td>PixivFanbox</td>
+        <td>Twitter</td>    <td>网易云音乐</td>  <td>知乎</td>        <td>爱发电</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">
+            <img src="https://www.youtube.com/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://space.bilibili.com/27958784"><img src="https://www.bilibili.com/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://soundcloud.com/sngrotesque"><img src="https://soundcloud.com/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://sng.fanbox.cc/"><img src="https://sng.fanbox.cc/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://twitter.com/SNGOfficial4"><img src="https://twitter.com/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://music.163.com/#/user/home?id=1686139386">
+            <img src="http://s1.music.126.net/style/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="15px" height="15px"></a></td>
+    </tr>
+</table>
+
+
 
 # Skills 🍻
 
