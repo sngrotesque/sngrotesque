@@ -4,29 +4,31 @@
 
 > [Shark Coast](https://github.com/shark-coast)成员之一，我们随时欢迎你的加入！
 
-你好~我是SN-Grotesque，欢迎各位来我的主页。<br>
+你好~我是SN-Grotesque，欢迎来我的主页。<br>
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
 我喜欢研究计算机的深层技术与实现算法，渴望使用最短代码完成最高水准。<br>
 > 我可不是一个不善交际的人，但是我已经有一个对象了，他对我非常好。
 > 所以请找对象的绕路哦。<br>
-<br>
 
 ```c
 #include <stdio.h>
 #include <stdlib.h>
 
+typedef struct {
+    char *name, *like, *love;
+    short age;
+} SN_ctx;
+
 static void info()
 {
-    typedef struct {
-        char *name, *like, *love;
-        short age;
-    } SN_ctx;
-
     SN_ctx *SN = (SN_ctx *)malloc(sizeof(SN_ctx));
     SN->name = "SN-Grotesque";
     SN->like = "Code, Music, Painting";
     SN->love = "QWY~";
     SN->age = 20;
+    love();
+    love();
+    love();
 }
 ```
 
