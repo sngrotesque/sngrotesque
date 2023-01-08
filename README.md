@@ -1,5 +1,7 @@
 # 🤗 Debug 🤗❤️
 
+<img src="https://www.murphysec.com/platform3/v3/badge/1611431819275173888.svg" align="right">
+
 ### 如果你使用我的代码时遇到问题，请查看此问题反馈姿势
 > 如果这些信息缺失了，我可能不会理睬你
 
