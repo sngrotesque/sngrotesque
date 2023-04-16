@@ -24,8 +24,8 @@
 你好~我是SN-Grotesque，欢迎来我的主页。❤<br>
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
 我喜欢研究计算机的深层技术与实现算法，渴望使用最短代码完成最高水准。<br>
-> 我可不是一个不善交际的人，但是我已经有一个对象了，他对我非常好。
-> 所以请找对象的绕路哦。<br>
+<!-- > 我可不是一个不善交际的人，但是我已经有一个对象了，他对我非常好。
+> 所以请找对象的绕路哦。<br> -->
 
 以下为我的个人主页相关网站传送门
 
@@ -64,30 +64,33 @@
 </table>
 
 ```c
-typedef struct {
-    void (*func)(sn_ctx *);
-    uint8_t ip_addr[4];
-    uint16_t port;
-} sn_ctx;
+typedef struct snObject {
+    snByte *buf;
+    snSize size;
+    snSize addr_start;
+    snSize addr_stop;
+    snVoid (*func)(snByte *, snSize);
+    snObject *next;
+} snObject;
 
-static void CheckIP(sn_ctx *ctx)
+SN_STATIC_FUNC(snError) snObject_malloc(snObject *ctx,
+    snSize _Request_memory_size, snBool _Clear_memory_space_data)
 {
-    printf("%u.%u.%u.%u\n",
-        *(ctx->ip_addr + 0), *(ctx->ip_addr + 1),
-        *(ctx->ip_addr + 2), *(ctx->ip_addr + 3));
-}
-
-static int sn_init_ctx(sn_ctx *ctx, char *ip, uint8_t port)
-{
-    memcpy(ctx->ip_addr, &inet_addr(ip), sizeof(uint32_t));
-    ctx->port = htons(port);
-    ctx->func = CheckIP;
+    ctx->buf = (snByte *)malloc(_Request_memory_size);
+    if(!ctx->buf)
+        return _Err_Memory;
+    if(_Clear_memory_space_data)
+        memset(ctx->buf, 0, _Request_memory_size);
+    ctx->size = _Request_memory_size;
+    ctx->addr_start = (snSize)&ctx->buf;
+    ctx->addr_stop = ctx->addr_start + ctx->size;
+    return _Err_Normal;
 }
 ```
 
 # Skills 🍻
 
-主要使用的语言有"C, C++, Python, Ruby, Perl, Linux Shell, Dos"<br>
+主要使用的语言有`C`, `C++`, `Python`，偶尔使用或正在学习的语言有`Java`, `C#`, `Ruby`, `Rust`, `Perl`。<br>
 我非常喜欢网络安全与计算机密码学，希望可以有同好一起交流。
 
 # Future goals
