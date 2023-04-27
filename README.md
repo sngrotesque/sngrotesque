@@ -29,7 +29,7 @@
 <table>
     <tr>
         <td>Pixiv</td>      <td>Youtube</td>     <td>哔哩哔哩</td>    <td>Soundcloud</td>    <td>PixivFanbox</td>
-        <td>Twitter</td>    <td>网易云音乐</td>   <td>知乎</td>       <td>爱发电</td>
+        <td>Twitter</td>    <td>网易云音乐</td>   <td>知乎</td>       <td>爱发电</td>         <td>电子邮箱</td>
     </tr>
     <tr>
         <td><a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="15px" height="15px"></a></td>
@@ -43,6 +43,7 @@
             <img src="http://s1.music.126.net/style/favicon.ico" width="15px" height="15px"></a></td>
         <td><a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="15px" height="15px"></a></td>
         <td><a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="15px" height="15px"></a></td>
+        <td><a href="mailto:kq-cos@outlook.com">E-Mail</a></td>
     </tr>
 </table>
 
