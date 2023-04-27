@@ -47,26 +47,31 @@
 </table>
 
 ```c
-typedef struct snObject {
-    snByte *buf;
-    snSize size;
-    snSize addr_start;
-    snSize addr_stop;
-    snVoid (*func)(snByte *, snSize);
-    snObject *next;
-} snObject;
-
-SN_STATIC_FUNC(snError) snObject_malloc_init(snObject *ctx,
-    snSize _Request_memory_size, snBool _Clear_memory_space_data)
+SN_STATIC_FUNC(snError) snBase64Encode(snObject *dst, snObject *src)
 {
-    ctx->buf = (snByte *)malloc(_Request_memory_size);
-    if(!ctx->buf)
-        return _Err_Memory;
-    if(_Clear_memory_space_data)
-        memset(ctx->buf, 0, _Request_memory_size);
-    ctx->size = _Request_memory_size;
-    ctx->addr_start = (snSize)&ctx->buf;
-    ctx->addr_stop = ctx->addr_start + ctx->size;
+    if(!dst->buf || !src->buf || !src->size) {
+        printf("dst or src or src->size is null.\n");
+        return _Err_NullContent;
+    }
+    snSize dst_i, src_i;
+
+    for (dst_i = src_i = 0; dst_i < dst->size - 2; src_i += 3, dst_i += 4) {
+        dst->buf[dst_i]   = _B64ET[src->buf[src_i] >> 2];
+        dst->buf[dst_i+1] = _B64ET[(src->buf[src_i] & 0x3)   << 4 | (src->buf[src_i+1] >> 4)];
+        dst->buf[dst_i+2] = _B64ET[(src->buf[src_i+1] & 0xf) << 2 | (src->buf[src_i+2] >> 6)];
+        dst->buf[dst_i+3] = _B64ET[src->buf[src_i+2] & 0x3f];
+    }
+
+    switch(src->size % 3) {
+        case 1:
+            dst->buf[dst_i - 2] = BASE64_PAD;
+            dst->buf[dst_i - 1] = BASE64_PAD;
+            break;
+        case 2:
+            dst->buf[dst_i - 1] = BASE64_PAD;
+            break;
+    }
+
     return _Err_Normal;
 }
 ```
