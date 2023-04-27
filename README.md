@@ -1,6 +1,11 @@
-# 🤗 Debug 🤗❤️
+# 😋 贡献
 
-<img src="https://www.murphysec.com/platform3/v3/badge/1611431819275173888.svg" align="right">
+<img src="https://www.murphysec.com/platform3/v3/badge/1611431819275173888.svg">
+<a href="https://stackexchange.com/users/23032190"><img src="https://stackexchange.com/users/flair/23032190.png" width="208" height="58" alt="profile for S-N on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for S-N on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
+
+# 🤗 Debug 🤗❤️
 
 ### 如果你使用我的代码时遇到问题，请参考StackOverflow的提问姿势。
 
@@ -18,8 +23,6 @@
 | sb	| 大神求带、这怎么不能用了、我打不开了、你们这个正常吗、文件在哪啊、怎么学啊、我是小白能帮我吗 |
 
 # About 🍺
-
-<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
 
 你好~我是SN-Grotesque，欢迎来我的主页。❤<br>
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
@@ -73,7 +76,7 @@ typedef struct snObject {
     snObject *next;
 } snObject;
 
-SN_STATIC_FUNC(snError) snObject_malloc(snObject *ctx,
+SN_STATIC_FUNC(snError) snObject_malloc_init(snObject *ctx,
     snSize _Request_memory_size, snBool _Clear_memory_space_data)
 {
     ctx->buf = (snByte *)malloc(_Request_memory_size);
@@ -100,8 +103,6 @@ SN_STATIC_FUNC(snError) snObject_malloc(snObject *ctx,
 - 全栈工程师 - Full Stack Developer
 
 # Avocation(Hobby) 🥂
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
 
 1. Cosplay
 2. Drink
