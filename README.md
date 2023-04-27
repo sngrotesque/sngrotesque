@@ -1,9 +1,7 @@
 # 😋 贡献
 
-<img src="https://www.murphysec.com/platform3/v3/badge/1611431819275173888.svg">
+<img src="https://www.murphysec.com/platform3/v3/badge/1611431819275173888.svg" align="right">
 <a href="https://stackexchange.com/users/23032190"><img src="https://stackexchange.com/users/flair/23032190.png" width="208" height="58" alt="profile for S-N on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for S-N on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact">
 
 # 🤗 Debug 🤗❤️
 
@@ -97,12 +95,14 @@ SN_STATIC_FUNC(snError) snObject_malloc_init(snObject *ctx,
 我非常喜欢网络安全与计算机密码学，希望可以有同好一起交流。
 
 # Future goals
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
 
 - 网络安全工程师 - Network Security Engineer
 - 画手 - Painter
 - 全栈工程师 - Full Stack Developer
 
 # Avocation(Hobby) 🥂
+<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
 
 1. Cosplay
 2. Drink
