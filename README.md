@@ -3,7 +3,7 @@
 <img src="https://www.murphysec.com/platform3/v3/badge/1611431819275173888.svg">
 <a href="https://stackexchange.com/users/23032190"><img src="https://stackexchange.com/users/flair/23032190.png" width="208" height="58" alt="profile for S-N on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for S-N on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact">
 
 # 🤗 Debug 🤗❤️
 
