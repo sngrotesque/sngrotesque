@@ -15,7 +15,7 @@
 | sb	| 大神求带、这怎么不能用了、我打不开了、你们这个正常吗、文件在哪啊、怎么学啊、我是小白能帮我吗 |
 
 # 关于 🍺
-<a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png" width="208" height="58" alt="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
+<a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png?theme=hotdog" width="208" height="58" alt="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
 
 你好~我是SN-Grotesque，欢迎来我的主页。❤<br>
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
