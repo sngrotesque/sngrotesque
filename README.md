@@ -21,8 +21,8 @@
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
 我喜欢研究计算机的深层技术与实现算法，渴望使用最短代码完成最高水准。<br>
 
-我的公开仓库基本都是一些普通的工具，目前并不会将私有仓库开放。<br>
-我的加密算法与部分其他的开发资源均在私有仓库。
+当前已开源部分个人私用仓库以及个人开发的框架仓库。
+使用时请遵守仓库中的开源协议中的规定。
 
 以下为我的个人主页相关网站传送门
 
@@ -48,33 +48,7 @@
 </table>
 
 ```c
-SN_STATIC_FUNC(snError) snBase64Encode(snObject *dst, snObject *src)
-{
-    if(!dst->buf || !src->buf || !src->size) {
-        printf("dst or src or src->size is null.\n");
-        return _Err_NullContent;
-    }
-    snSize dst_i, src_i;
 
-    for (dst_i = src_i = 0; dst_i < dst->size - 2; src_i += 3, dst_i += 4) {
-        dst->buf[dst_i]   = _B64ET[src->buf[src_i] >> 2];
-        dst->buf[dst_i+1] = _B64ET[(src->buf[src_i] & 0x3)   << 4 | (src->buf[src_i+1] >> 4)];
-        dst->buf[dst_i+2] = _B64ET[(src->buf[src_i+1] & 0xf) << 2 | (src->buf[src_i+2] >> 6)];
-        dst->buf[dst_i+3] = _B64ET[src->buf[src_i+2] & 0x3f];
-    }
-
-    switch(src->size % 3) {
-        case 1:
-            dst->buf[dst_i - 2] = BASE64_PAD;
-            dst->buf[dst_i - 1] = BASE64_PAD;
-            break;
-        case 2:
-            dst->buf[dst_i - 1] = BASE64_PAD;
-            break;
-    }
-
-    return _Err_Normal;
-}
 ```
 
 # 技能 🍻
