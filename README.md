@@ -48,7 +48,16 @@
 </table>
 
 ```c
+#define SN_OPEN_API
 
+typedef enum {
+    SNC_256,
+    SNC_512,
+    SNC_768
+} SNC_Mode;
+
+SN_PUBLIC(snVoid) SNC_ECB_Encrypt SN_OPEN_API
+SN_FUNC_OF((SNC_ctx *ctx, snByte *buf, snSize size));
 ```
 
 # 技能 🍻
