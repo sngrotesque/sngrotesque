@@ -14,10 +14,8 @@
 | 0分	| 这怎么办啊（不完整的报错截图） |
 | sb	| 大神求带、这怎么不能用了、我打不开了、你们这个正常吗、文件在哪啊、怎么学啊、我是小白能帮我吗 |
 
-# 关于 🍺
-<a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png?theme=hotdog" width="208" height="58" alt="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
-
-<h4 align="center">
+<div align="right">
+    <code>联系方式：</code>
     <a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="32px" height="32px"></a>
     <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured"><img src="https://www.youtube.com/favicon.ico" width="32px" height="32px"></a>
     <a href="https://space.bilibili.com/27958784"><img src="https://www.bilibili.com/favicon.ico" width="32px" height="32px"></a>
@@ -28,7 +26,11 @@
     <a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="32px" height="32px"></a>
     <a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="32px" height="32px"></a>
     <a href="mailto:kq-cos@outlook.com"><img src="https://img.icons8.com/nolan/64/new-post.png" width="32px" height="32px"></a>
-</h4>
+</div>
+
+
+# 关于 🍺
+<a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png?theme=hotdog" width="208" height="58" alt="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
 
 <p align="center">
 你好~我是SN-Grotesque，欢迎来我的主页。❤<br>
