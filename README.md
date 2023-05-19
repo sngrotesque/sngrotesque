@@ -17,68 +17,129 @@
 # 关于 🍺
 <a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png?theme=hotdog" width="208" height="58" alt="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
 
+<h4 align="center">
+    <a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured"><img src="https://www.youtube.com/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://space.bilibili.com/27958784"><img src="https://www.bilibili.com/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://soundcloud.com/sngrotesque"><img src="https://soundcloud.com/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://sng.fanbox.cc/"><img src="https://sng.fanbox.cc/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://twitter.com/SNGOfficial4"><img src="https://twitter.com/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://music.163.com/#/user/home?id=1686139386"><img src="http://s1.music.126.net/style/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="50px" height="50px"></a>
+    <a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="50px" height="50px"></a>
+    <a href="mailto:kq-cos@outlook.com"><img src="https://img.icons8.com/nolan/64/new-post.png" width="62px" height="62px"></a>
+</h4>
+
+<p align="center">
 你好~我是SN-Grotesque，欢迎来我的主页。❤<br>
 我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
 我喜欢研究计算机的深层技术与实现算法，渴望使用最短代码完成最高水准。<br>
-
-当前已开源部分个人私用仓库以及个人开发的框架仓库。
+当前已开源部分个人私用仓库以及个人开发的框架仓库。<br>
 使用时请遵守仓库中的开源协议中的规定。
+</p>
 
-以下为我的个人主页相关网站传送门
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/libreoffice/libreoffice-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/haeckdesign/haeckdesign-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ietf/ietf-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3c/w3c-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
+</div>
 
-<table>
-    <tr>
-        <td>Pixiv</td>      <td>Youtube</td>     <td>哔哩哔哩</td>    <td>Soundcloud</td>    <td>PixivFanbox</td>
-        <td>Twitter</td>    <td>网易云音乐</td>   <td>知乎</td>       <td>爱发电</td>         <td>电子邮箱</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">
-            <img src="https://www.youtube.com/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://space.bilibili.com/27958784"><img src="https://www.bilibili.com/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://soundcloud.com/sngrotesque"><img src="https://soundcloud.com/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://sng.fanbox.cc/"><img src="https://sng.fanbox.cc/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://twitter.com/SNGOfficial4"><img src="https://twitter.com/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://music.163.com/#/user/home?id=1686139386">
-            <img src="http://s1.music.126.net/style/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="15px" height="15px"></a></td>
-        <td><a href="mailto:kq-cos@outlook.com">E-Mail</a></td>
-    </tr>
-</table>
-
-```c
-#define SN_OPEN_API
-
-typedef enum {
-    SNC_256,
-    SNC_512,
-    SNC_768
-} SNC_Mode;
-
-SN_PUBLIC(snVoid) SNC_ECB_Encrypt SN_OPEN_API
-SN_FUNC_OF((SNC_ctx *ctx, snByte *buf, snSize size));
-```
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sngrotesque&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true">
+</div>
+<div align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=ruby&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=perl&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&animation=spin&fill=black&textfill=bface6">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6">
+</div>
 
 # 技能 🍻
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&layout=compact" align="right">
 
-主要使用的语言有`C/C++/Python`。<br>
-偶尔使用或正在学习的语言有`Java/C#/Ruby/Rust/Perl`。<br>
-正在学习游戏开发，建模与图形学。<br>
-目前完成了对称加密算法，图像生成工具，与网络爬虫的开发。
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&title_color=ffff00&bg_color=151515&text_color=efefef&hide_border=true&layout=compact" align="right">
 
-未来用作游戏开发和底层程序开发主要使用的框架与引擎为：`Qt`，`Unity`，`Unreal Engine`，`OpenGL`，`OpenSSL`。
+<p>
+    主要使用的语言有[<code>C</code>, <code>C++</code>, <code>Python</code>]。<br>
+    偶尔使用或正在学习的语言有[<code>Java</code>, <code>C#</code>, <code>Ruby</code>, <code>Rust</code>, <code>Perl</code>]。<br>
+    正在学习游戏开发，建模与图形学。<br>
+    目前完成了对称加密算法，图像生成工具，与网络爬虫的开发。<br>
+    未来用作游戏开发和底层程序开发主要使用的框架与引擎为：Qt，Unity，Unreal Engine，OpenGL，OpenSSL。
+</p>
 
 # 未来目标
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sngrotesque&theme=dark&hide_border=true" align="right">
 
 - 网络安全工程师 - Network Security Engineer
 - 画手 - Painter
 - 全栈工程师 - Full Stack Developer
 - 游戏开发者 - Game developers
 
+<br>
+
 # 爱好 🥂
-<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&show_icons=true&count_private=true&theme=cobalt&show_icons=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&title_color=ffff00&bg_color=151515&show_icons=true&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true" align="right">
 
 1. Cosplay (角色扮演)
 2. 喝酒喝饮料
@@ -89,3 +150,9 @@ SN_FUNC_OF((SNC_ctx *ctx, snByte *buf, snSize size));
 | [爱发电 - Afdian](https://afdian.net/@sngrotesque) | [PixivFanbox](https://sng.fanbox.cc/) |
 | --------------                                    | -----------                           |
 > Thank you very much.
+
+<!--
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sngrotesque">
+</div>
+-->
