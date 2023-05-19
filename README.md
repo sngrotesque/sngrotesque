@@ -18,16 +18,16 @@
 <a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png?theme=hotdog" width="208" height="58" alt="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
 
 <h4 align="center">
-    <a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured"><img src="https://www.youtube.com/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://space.bilibili.com/27958784"><img src="https://www.bilibili.com/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://soundcloud.com/sngrotesque"><img src="https://soundcloud.com/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://sng.fanbox.cc/"><img src="https://sng.fanbox.cc/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://twitter.com/SNGOfficial4"><img src="https://twitter.com/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://music.163.com/#/user/home?id=1686139386"><img src="http://s1.music.126.net/style/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="50px" height="50px"></a>
-    <a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="50px" height="50px"></a>
-    <a href="mailto:kq-cos@outlook.com"><img src="https://img.icons8.com/nolan/64/new-post.png" width="62px" height="62px"></a>
+    <a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured"><img src="https://www.youtube.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://space.bilibili.com/27958784"><img src="https://www.bilibili.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://soundcloud.com/sngrotesque"><img src="https://soundcloud.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://sng.fanbox.cc/"><img src="https://sng.fanbox.cc/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://twitter.com/SNGOfficial4"><img src="https://twitter.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://music.163.com/#/user/home?id=1686139386"><img src="http://s1.music.126.net/style/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="32px" height="32px"></a>
+    <a href="mailto:kq-cos@outlook.com"><img src="https://img.icons8.com/nolan/64/new-post.png" width="32px" height="32px"></a>
 </h4>
 
 <p align="center">
