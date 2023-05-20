@@ -17,7 +17,7 @@
 
 ```c
 #define PRIVATE_CONST(type) static const type
-#defien T(x) printf("%s\n", x)
+#define T(x) printf("%s\n", x)
 PRIVATE_CONST(char *) message = "No, you're wrong. There's no problem with these codes.";
 T(message);
 ```
