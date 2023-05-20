@@ -16,16 +16,26 @@
 
 <div align="right">
     <code>联系方式：</code>
-    <a href="https://www.pixiv.net/users/38279179"><img src="https://www.pixiv.net/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured"><img src="https://www.youtube.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://space.bilibili.com/27958784"><img src="https://www.bilibili.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://soundcloud.com/sngrotesque"><img src="https://soundcloud.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://sng.fanbox.cc/"><img src="https://sng.fanbox.cc/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://twitter.com/SNGOfficial4"><img src="https://twitter.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://music.163.com/#/user/home?id=1686139386"><img src="http://s1.music.126.net/style/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://www.zhihu.com/people/kianakaslana-16"><img src="https://www.zhihu.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://afdian.net/@sngrotesque"><img src="https://afdian.net/favicon.ico" width="32px" height="32px"></a>
-    <a href="mailto:kq-cos@outlook.com"><img src="https://img.icons8.com/nolan/64/new-post.png" width="32px" height="32px"></a>
+    <a href="https://www.pixiv.net/users/38279179">
+        <img src="https://www.pixiv.net/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">
+        <img src="https://www.youtube.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://space.bilibili.com/27958784">
+        <img src="https://www.bilibili.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://soundcloud.com/sngrotesque">
+        <img src="https://soundcloud.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://sng.fanbox.cc/">
+        <img src="https://sng.fanbox.cc/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://twitter.com/SNGOfficial4">
+        <img src="https://twitter.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://music.163.com/#/user/home?id=1686139386">
+        <img src="http://s1.music.126.net/style/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://www.zhihu.com/people/kianakaslana-16">
+        <img src="https://www.zhihu.com/favicon.ico" width="32px" height="32px"></a>
+    <a href="https://afdian.net/@sngrotesque">
+        <img src="https://afdian.net/favicon.ico" width="32px" height="32px"></a>
+    <a href="mailto:kq-cos@outlook.com">
+        <img src="https://img.icons8.com/nolan/64/new-post.png" width="32px" height="32px"></a>
 </div>
 
 
@@ -40,6 +50,21 @@
 使用时请遵守仓库中的开源协议中的规定。
 </p>
 
+
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+</div>
+<div align="center">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+</div>
+
+<!-- 
 <div align="center">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
@@ -101,6 +126,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
 </div>
+-->
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sngrotesque&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true">
