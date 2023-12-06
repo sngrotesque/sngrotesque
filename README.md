@@ -15,11 +15,25 @@
 | 0分	| 这怎么办啊（不完整的报错截图） |
 | sb	| 大神求带、这怎么不能用了、我打不开了、你们这个正常吗、文件在哪啊、怎么学啊、我是小白能帮我吗 |
 
-```c
-#define PRIVATE_CONST(type) static const type
-#define T(x) printf("%s\n", x)
-PRIVATE_CONST(char *) message = "No, you're wrong. There's no problem with these codes.";
-T(message);
+```cpp
+class self {
+    public:
+        std::string name;
+        std::string like;
+        std::string lang;
+        int age;
+        self(_name, _like, _lang, _age) : name(_name), like(_like), lang(_lang), age(_age) {}
+        void show()
+        {
+            std::cout << "name: " << this->name << std::endl;
+            std::cout << "like: " << this->like << std::endl;
+            std::cout << "lang: " << this->lang << std::endl;
+            std::cout << "age: " << this->age << std::endl;
+        }
+}
+
+self sn("SN-Grotesque", "Programming", "C, C++, C#, Java, Python", 21);
+sn.show()
 ```
 
 <div align="right">
@@ -89,9 +103,8 @@ T(message);
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&title_color=ffff00&bg_color=151515&text_color=efefef&hide_border=true&layout=compact" align="right">
 
 <p>
-    主要使用的语言有[<code>C</code>, <code>C++</code>, <code>Python</code>]。<br>
-    偶尔使用或正在学习的语言有[<code>Java</code>, <code>C#</code>, <code>Ruby</code>, <code>Rust</code>, <code>Perl</code>]。<br>
-    正在学习游戏开发，建模与图形学。<br>
+    主要使用的语言有[<code>C</code>, <code>C++</code>, <code>Python</code>, <code>C#</code>]。<br>
+    偶尔使用或正在学习的语言有[<code>Java</code>, <code>Ruby</code>, <code>Rust</code>, <code>Perl</code>]。<br>
     目前完成了对称加密算法，图像生成工具，与网络爬虫的开发。<br>
     未来用作游戏开发和底层程序开发主要使用的框架与引擎为：Qt，Unity，Unreal Engine，OpenGL，OpenSSL。
 </p>
@@ -110,13 +123,11 @@ T(message);
 <img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&title_color=ffff00&bg_color=151515&show_icons=true&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true" align="right">
 
 1. Cosplay (角色扮演)
-2. 喝酒喝饮料
-3. 看《海绵宝宝》
-4. 做爱
+2. 做爱（开淫趴）
 
 如果你觉得我的项目不错，那么你可以赞助我🍗/❤/💕，非常感谢！<br>
 | [爱发电 - Afdian](https://afdian.net/@sngrotesque) | [PixivFanbox](https://sng.fanbox.cc/) |
-| --------------                                    | -----------                           |
+| --------------                                     | -----------                           |
 > Thank you very much.
 
 <!-- 
