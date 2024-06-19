@@ -20,8 +20,6 @@
  - [Gmail](mailto:sngrotesque@gmail.com)，通过谷歌邮箱联系我，请注意你的邮件标题，否则我可能会在未查看的情况下直接删除你发送的邮件。
  - [W](https://x.com/CNSN_W)，这是我多个Twitter账号的其中一个。
 
----
-
 # Collaboration (?)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&title_color=ffff00&bg_color=151515&text_color=efefef&hide_border=true&layout=compact" align="right">
@@ -59,4 +57,9 @@ namespace wmkc {
 }
 ```
 
-[^WhyNotUseJAVA]: 原因是Java那又臭又长的语法以及又臭又长的目录结构，真的很恶心我，并且它的性能相比较于C/C++/C#并没有优势。
+---
+<img src="https://raw.githubusercontent.com/GoodManWEN/Programming-Language-Benchmarks-Visualization/main/ranking.png" width="75%" height="75%">
+---
+
+
+[^WhyNotUseJAVA]: 原因是Java那又臭又长的语法以及又臭又长的目录结构，真的很恶心我，并且它的[性能](https://goodmanwen.github.io/Programming-Language-Benchmarks-Visualization/)相比较于C/C++/C#并没有优势。
