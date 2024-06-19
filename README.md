@@ -28,7 +28,7 @@
 
 如果你要与我合作开发代码，下面是我的代码风格，你可以参考一下自己是否能够接受。  
 我的代码风格还是很规范化的，注释方式，采用业界通用的[Doxygen注释](https://www.doxygen.nl/manual/docblocks.html)。  
-我使用的语言为：[`C`, `Python`, `C++`, `C#`, `Java`]，目前不会使用Java作为开发语言。
+我使用的语言为：[`C`, `Python`, `C++`, `C#`, `Java`]，目前不会使用Java作为开发语言[^d]。
 
 ```cpp
 namespace wmkc {
@@ -58,3 +58,5 @@ namespace wmkc {
 };
 }
 ```
+
+[^d]: 原因是Java那又臭又长的语法以及又臭又长的目录结构，真的很恶心我，并且它的性能相比较于C/C++/C#并没有优势。
