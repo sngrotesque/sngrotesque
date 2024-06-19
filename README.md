@@ -1,201 +1,60 @@
-# 😛 调试 😊❤️
-<!--
-<img src="https://www.murphysec.com/platform3/v3/badge/1611431819275173888.svg" align="right">
--->
-### 如果你使用我的代码时遇到问题，那么你应该提交一个Issues而不是来问我这是什么情况。
+# About
 
-> 具体可以参考[Angelina-Bot](https://www.angelina-bot.top/About.html)的智力对照表
+你好，我是**SN-Grotesque**，欢迎你的到来。  
+我是一个[开发者](https://github.com/sngrotesque)，也是一个[音乐人](https://music.163.com/#/artist?id=30774062)，同时也是一个[视频制作者](https://space.bilibili.com/27958784)。  
+当然也是一个游戏制作者，使用[Unity 2021](https://unity.com/cn/products)与[Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5)进行游戏的开发，使用[WWise](https://www.audiokinetic.com/zh/wwise/overview/)进行游戏音效的设计和制作，使用[FL Studio](https://www.image-line.com/)进行游戏音乐的制作，使用[Visual Studio 2022 LTSC 17.6](https://learn.microsoft.com/zh-cn/visualstudio/releases/2022/release-notes-v17.6)作为代码编辑器（作为一个长期支持版本，以及能够兼容UE5的版本）。  
+常规开发时，我喜欢使用[Visual Studio Code (VSCode)](https://code.visualstudio.com/)与[MSYS2](https://www.msys2.org/)进行代码的编写。  
+我喜欢研究很多东西，包括计算机底层的各种技术和算法实现，渴望使用最短代码做到最高水准。  
 
-| 智力得分	| 提问方式 |
-| :--- | :--- |
-| 100分	| 我在xxx遇到了一个问题，在翻阅文档和视频后，这里是报错截图，我参考了百度或谷歌中xxx文章进行解决，但仍不能解决 |
-| 90分	| 我遇到了xxx问题，我翻阅了文档和视频，没有找到解决方案，完整的报错截图如下 |
-| 60分	| 这里是完整的报错截图，请问应该怎么解决 |
-| 10分	| 这咋回事啊（手机拍屏幕）|
-| 0分	| 这怎么办啊（不完整的报错截图） |
-| sb	| 大神求带、这怎么不能用了、我打不开了、你们这个正常吗、文件在哪啊、怎么学啊、我是小白能帮我吗 |
+# Projects
+ - [WMKC](https://github.com/sngrotesque/WMKC/)，这是我主力开发的[C++](https://en.wikipedia.org/wiki/C%2B%2B)库，用于未来我的[即时通讯软件](https://en.wikipedia.org/wiki/Instant_messaging)的底层，可以理解为一个为了支持未来软件而开发的框架。试图做到[Telegram](https://telegram.org/)那样的程度。
+ - [WMKC for Python](https://github.com/sngrotesque/WMKC_Python/)，这是我使用[Python3](https://www.python.org/)进行开发的一些库，其中包含了[Pixiv爬虫](https://github.com/sngrotesque/WMKC_Python/blob/v1.0.0/wtools/pixiv.py)，[哔哩哔哩爬虫](https://github.com/sngrotesque/WMKC_Python/tree/v1.0.0/Web%20crawler/bilibili)以及[E-Hentai爬虫](https://github.com/sngrotesque/WMKC_Python/tree/v1.0.0/Web%20crawler/ehentai)。  
+ 其实主要开发用于未来项目的一些框架，但与[WMKC](https://github.com/sngrotesque/WMKC/)不同的是，此仓库的代码偏向于更高层的功能。而前者则是更底层的实现。
 
-```cpp
-class self {
-    public:
-        std::string name;
-        std::string like;
-        std::string lang;
-        int age;
-        self(_name, _like, _lang, _age) : name(_name), like(_like), lang(_lang), age(_age) {}
-        void show()
-        {
-            std::cout << "name: " << this->name << std::endl;
-            std::cout << "like: " << this->like << std::endl;
-            std::cout << "lang: " << this->lang << std::endl;
-            std::cout << "age: " << this->age << std::endl;
-        }
-}
+# Contact
 
-self sn("SN-Grotesque", "Programming", "C, C++, C#, Java, Python", 21);
-sn.show()
-```
-
-<div align="right">
-    <code>联系方式：</code>
-    <a href="https://www.pixiv.net/users/38279179">
-        <img src="https://www.pixiv.net/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://www.youtube.com/channel/UCITRiFd37VZS8y4vjW2pfYQ/featured">
-        <img src="https://www.youtube.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://space.bilibili.com/27958784">
-        <img src="https://www.bilibili.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://soundcloud.com/sngrotesque">
-        <img src="https://soundcloud.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://sng.fanbox.cc/">
-        <img src="https://sng.fanbox.cc/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://twitter.com/SNGOfficial4">
-        <img src="https://twitter.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://music.163.com/#/user/home?id=1686139386">
-        <img src="http://s1.music.126.net/style/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://www.zhihu.com/people/kianakaslana-16">
-        <img src="https://www.zhihu.com/favicon.ico" width="32px" height="32px"></a>
-    <a href="https://afdian.net/@sngrotesque">
-        <img src="https://afdian.net/favicon.ico" width="32px" height="32px"></a>
-    <a href="mailto:kq-cos@outlook.com">
-        <img src="https://img.icons8.com/nolan/64/new-post.png" width="32px" height="32px"></a>
-</div>
-
-
-# 关于 🍺
 <a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png?theme=hotdog" width="208" height="58" alt="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for S-N at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
 
-<p align="left">
-你好~我是SN-Grotesque，欢迎来我的主页。❤<br>
-我是一个喜欢代码喜欢绘画喜欢音乐的人，同时也是一个视频博主。<br>
-我喜欢研究计算机的深层技术与实现算法，渴望使用最短代码完成最高水准。<br>
-当前已开源部分个人私用仓库以及个人开发的框架仓库。<br>
-使用时请遵守仓库中的开源协议中的规定。
-</p>
+ - [哔哩哔哩](https://space.bilibili.com/27958784)，这是我在Bilibili平台的创作账号，欢迎关注。
+ - [Telegram](https://t.me/SNSTUPID)，这是我唯一一个国外即时通讯软件的联系方式（曾经有用过[LINE](https://line.me/en/)，但后来放弃了）。
+ - [Gmail](mailto:sngrotesque@gmail.com)，通过谷歌邮箱联系我，请注意你的邮件标题，否则我可能会在未查看的情况下直接删除你发送的邮件。
+ - [W](https://x.com/CNSN_W)，这是我多个Twitter账号的其中一个。
 
-<div align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=ruby&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=perl&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&animation=spin&fill=black&textfill=bface6">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6">
-</div>
+---
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sngrotesque&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true">
-</div>
-
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-</div>
-
-# 技能 🍻
+# Collaboration (?)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&title_color=ffff00&bg_color=151515&text_color=efefef&hide_border=true&layout=compact" align="right">
 
-<p>
-    主要使用的语言有[<code>C</code>, <code>C++</code>, <code>Python</code>, <code>C#</code>]。<br>
-    偶尔使用或正在学习的语言有[<code>Java</code>, <code>Ruby</code>, <code>Rust</code>, <code>Perl</code>]。<br>
-    目前完成了对称加密算法，图像生成工具，与网络爬虫的开发。<br>
-    未来用作游戏开发和底层程序开发主要使用的框架与引擎为：Qt，Unity，Unreal Engine，OpenGL，OpenSSL。
-</p>
+如果你要与我合作开发代码，下面是我的代码风格，你可以参考一下自己是否能够接受。  
+我的代码风格还是很规范化的，注释方式，采用业界通用的[Doxygen注释](https://www.doxygen.nl/manual/docblocks.html)。  
+我使用的语言为：[`C`, `Python`, `C++`, `C#`, `Java`]，目前不会使用Java作为开发语言。
 
-# 未来目标
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sngrotesque&theme=dark&hide_border=true" align="right">
+```cpp
+namespace wmkc {
+    class IM {
+    private:
+        Socket fd;
+        size_t session_id;
+    public:
+        IM(Socket fd, size_t session_id)
+        : session_id(session_id)
+        {
+            //...
+        }
 
-- 网络安全工程师 - Network Security Engineer
-- 画手 - Painter
-- 全栈工程师 - Full Stack Developer
-- 游戏开发者 - Game developers
-
-<br>
-
-# 爱好 🥂
-<img src="https://github-readme-stats.vercel.app/api?username=sngrotesque&title_color=ffff00&bg_color=151515&show_icons=true&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true" align="right">
-
-1. Cosplay (角色扮演)
-2. 做爱（开淫趴）
-
-如果你觉得我的项目不错，那么你可以赞助我🍗/❤/💕，非常感谢！<br>
-| [爱发电 - Afdian](https://afdian.net/@sngrotesque) | [PixivFanbox](https://sng.fanbox.cc/) |
-| --------------                                     | -----------                           |
-> Thank you very much.
-
-<!-- 
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/openssl/openssl-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firefox/firefox-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/libreoffice/libreoffice-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/haeckdesign/haeckdesign-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ietf/ietf-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-</div>
-<div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3c/w3c-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
-</div>
--->
-
-<!--
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sngrotesque">
-</div>
--->
+        /**
+         * @brief 发送用户消息
+         * @param message 用户消息
+         * @param seq 此消息的序号，用于纠正包的顺序
+         * @return 无
+         */
+        void send_msg(std::string message, uint32_t seq)
+        {
+            // All kinds of other things...
+            fd.send(message);
+            // All kinds of other things...
+        }
+};
+}
+```
