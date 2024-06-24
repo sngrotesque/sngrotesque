@@ -57,6 +57,4 @@ namespace wmkc {
 }
 ```
 
----
-
 [^WhyNotUseJAVA]: 原因是Java那又臭又长的语法以及又臭又长的目录结构，真的很恶心我，并且它的[性能](https://goodmanwen.github.io/Programming-Language-Benchmarks-Visualization/)相比较于C/C++/C#并没有优势。
