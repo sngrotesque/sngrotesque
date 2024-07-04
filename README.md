@@ -7,9 +7,9 @@
 我喜欢研究很多东西，包括计算机底层的各种技术和算法实现，渴望使用最短代码做到最高水准。  
 
 # Projects
- - [WMKC](https://github.com/sngrotesque/WMKC/)，这是我主力开发的[C++](https://en.wikipedia.org/wiki/C%2B%2B)库，用于未来我的[即时通讯软件](https://en.wikipedia.org/wiki/Instant_messaging)的底层，可以理解为一个为了支持未来软件而开发的框架。试图做到[Telegram](https://telegram.org/)那样的程度。
- - [WMKC for Python](https://github.com/sngrotesque/WMKC_Python/)，这是我使用[Python3](https://www.python.org/)进行开发的一些库，其中包含了[Pixiv爬虫](https://github.com/sngrotesque/WMKC_Python/blob/v1.0.0/wtools/pixiv.py)，[哔哩哔哩爬虫](https://github.com/sngrotesque/WMKC_Python/tree/v1.0.0/Web%20crawler/bilibili)以及[E-Hentai爬虫](https://github.com/sngrotesque/WMKC_Python/tree/v1.0.0/Web%20crawler/ehentai)。  
- 其实主要开发用于未来项目的一些框架，但与[WMKC](https://github.com/sngrotesque/WMKC/)不同的是，此仓库的代码偏向于更高层的功能。而前者则是更底层的实现。
+ - [The wizard's universal key](https://github.com/sngrotesque/wizard_key)，这是我主力开发的[C++](https://en.wikipedia.org/wiki/C%2B%2B)库，用于未来我的[即时通讯软件](https://en.wikipedia.org/wiki/Instant_messaging)的底层，可以理解为一个为了支持未来软件而开发的框架。试图做到[Telegram](https://telegram.org/)那样的程度。
+ <!-- - [WMKC for Python](https://github.com/sngrotesque/WMKC_Python/)，这是我使用[Python3](https://www.python.org/)进行开发的一些库，其中包含了[Pixiv爬虫](https://github.com/sngrotesque/WMKC_Python/blob/v1.0.0/wtools/pixiv.py)，[哔哩哔哩爬虫](https://github.com/sngrotesque/WMKC_Python/tree/v1.0.0/Web%20crawler/bilibili)以及[E-Hentai爬虫](https://github.com/sngrotesque/WMKC_Python/tree/v1.0.0/Web%20crawler/ehentai)。  
+ 其实主要开发用于未来项目的一些框架，但与[WMKC](https://github.com/sngrotesque/WMKC/)不同的是，此仓库的代码偏向于更高层的功能。而前者则是更底层的实现。 -->
 
 # Contact
 
@@ -29,7 +29,7 @@
 我使用的语言为：[`C`, `Python`, `C++`, `C#`, `Java`]，目前不会使用Java作为开发语言[^WhyNotUseJAVA]。
 
 ```cpp
-namespace wmkc {
+namespace wuk {
     class IM {
     private:
         Socket fd;
