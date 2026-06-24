@@ -13,18 +13,18 @@ Python 方面，我目前固定使用 **3.11.9**。
 
 # 项目
 
-1. [The Wizard's Universal Key](https://github.com/sngrotesque/wizard_key)
+1. [The Wizard's Universal Key](https://github.com/sngrotesque/wizard_key)  
     因为想做到所有事情是不可能的，当时的自己还是太幼稚了，这个仓库（项目）写了至少有3年，但最终我还是把它放弃了。  
     因为我已经意识到它不再值得我像以前那样投入时间，我应该聚焦于细分领域。  
     或许未来我会把它重拾起来吧，但那肯定是很久之后的事情了。  
     但它真的让我成长了很多，不管是项目管理方面还是代码编写方面。
 
-2. [Cheat kernel](https://github.com/sngrotesque/CheatKernel)
+2. [Cheat kernel](https://github.com/sngrotesque/CheatKernel)  
     这是我正在编写的一款通用游戏作弊分析工具，目前不考虑开源，敬请期待。  
     将聚焦于使用 Unreadl engine / Unity 开发的游戏。  
     如果可以，那么会做成尽可能通用的游戏作弊工具，但这很难，不是吗？
 
-3. [Common Vulnerability Exploit](https://github.com/sngrotesque/CVE_CommonVulnerabilityExploit)
+3. [Common Vulnerability Exploit](https://github.com/sngrotesque/CVE_CommonVulnerabilityExploit)  
     这里汇聚了所有我收集的 Nday 漏洞PoC和Exp，其中大部分来自 CVE (common vulnerabilities and exposures) 的披露，其中小部分未获得 CVE 编号。
 
 # 联系
