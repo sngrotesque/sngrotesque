@@ -21,7 +21,7 @@ Python 方面，我目前固定使用 **3.11.9**。
 
 2. [Cheat kernel](https://github.com/sngrotesque/CheatKernel)  
     这是我正在编写的一款通用游戏作弊分析工具，目前不考虑开源，敬请期待。  
-    将聚焦于使用 Unreadl engine / Unity 开发的游戏。  
+    将聚焦于使用 Unreal engine / Unity 开发的游戏。  
     如果可以，那么会做成尽可能通用的游戏作弊工具，但这很难，不是吗？
 
 3. [Common Vulnerability Exploit](https://github.com/sngrotesque/CVE_CommonVulnerabilityExploit)  
