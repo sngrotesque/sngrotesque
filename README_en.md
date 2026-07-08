@@ -1,65 +1,67 @@
-# About ([中文](README.md) / English / [Русский](README_ru.md) / [日本語](README_jp.md) / [조선말](README_kp.md) / [Korean](README_kr.md))
+# About ([中文](README.md) / English)
 
-Hello, I'm **SN‑Grotesque**, also known as **栀子鱼鱼花**.  
+Hi, I'm **SN-Grotesque**, also known as **Rice** / **SN**.  
 Welcome to my GitHub.
 
 I'm a developer, musician, video creator, and game developer.  
-I work with **Unity** and **Unreal Engine** for game development, use **FL Studio** for music production, and write code mainly with **Visual Studio 2022** and **VSCode**.
+My daily development mainly uses **C++ / Python / Dart**, with a preference for low-level technologies, algorithm implementation, cryptography, and cybersecurity.  
+I strive to achieve the highest quality with the shortest code.
 
-For fast and lightweight development, I prefer the **MSYS2 – MinGW64 / GCC** environment.  
-As for Python, I currently stick to **3.11.9**.
+# 🔐 Public Key Verification
 
-I enjoy exploring low‑level technologies, algorithm design, cryptography, and cybersecurity.  
-My goal is always to achieve the highest quality with the shortest and cleanest code.
+To ensure users can safely download the files I publish, I use **GPG** for signature verification.
 
----
+- **Fingerprint**  
+  `003CC84A9F6B10C233114C18F1E31EE85D9E0244`
 
-# Projects
+- **Long Key ID**  
+  `0xF1E31EE85D9E0244`
 
-1. **[The Wizard's Universal Key](https://github.com/sngrotesque/wizard_key)**  
-   I once believed I could build something that does everything — clearly, I was too naïve.  
-   This project lived for nearly three years, and eventually I decided to let it go.  
-   I realized it was no longer worth the time investment, and that I should focus on more specialized areas.  
-   Maybe I'll return to it someday, but that will be far in the future.  
-   Still, this project taught me a lot — in both project management and code craftsmanship.
+You can obtain my public key using these details and verify that the files you download are indeed published by me.  
+In my main repositories, you'll find `.asc` / `.sig` files used to verify the integrity and origin of released files.
 
-2. **[Cheat Kernel](https://github.com/sngrotesque/CheatKernel)**  
-   A general‑purpose game cheat analysis tool I'm currently developing.  
-   It will focus on games built with **Unreal Engine** and **Unity**.  
-   I'm not planning to open‑source it for now — stay tuned.  
-   If possible, I'd like to make it as universal as a cheat tool can be… though that's easier said than done.
+Don't panic if you can't find the files for these verification purposes, as they will only be used in projects after July 2026.
 
-3. **[Common Vulnerability Exploit](https://github.com/sngrotesque/CVE_CommonVulnerabilityExploit)**  
-   A collection of N‑day PoCs and exploits I've gathered.  
-   Most are based on publicly disclosed **CVE** vulnerabilities, while a few do not have CVE IDs.
+# 📦 Main Projects
 
----
+1. [The Wizard's Universal Key](https://github.com/sngrotesque/wizard_key)  
+   I worked on this project for at least three years.  
+   It once carried my ambition to "do everything," but eventually I realized:  
+   **Focusing on specific areas is more important than trying to build a universal tool.**
 
-# Contact
+   Although it is now discontinued, it helped me grow significantly in both project management and code quality.  
+   Maybe one day I'll pick it up again, but that will be far in the future.
+
+2. [Cheat kernel](https://github.com/sngrotesque/CheatKernel)  
+   This is a general-purpose game cheat analysis tool I'm writing in **C++**. Currently, I don't plan to open-source it.  
+   It will primarily target games developed with **Unreal Engine** / **Unity**.  
+   If possible, I hope it can become a versatile game analysis framework—though it's extremely difficult, it's worth attempting.
+
+3. [Common Vulnerability Exploit](https://github.com/sngrotesque/CVE_CommonVulnerabilityExploit)  
+   Here I collect all the Nday vulnerability PoCs / Exploits I've organized.  
+   Most come from publicly disclosed **CVEs**, and some do not have assigned IDs.  
+   Used for learning, research, and security analysis.
+
+4. [CS2 Die to Play](https://github.com/sngrotesque/CS2_Die2Play)  
+   A program that automatically opens Douyin (TikTok) when you die in a CS2 match, and switches back to the game upon respawn.  
+   Supports **custom URLs** / **wallpaper switching**, etc.
+
+# 📞 Contact
 
 <a href="https://stackoverflow.com/users/21376217/s-n"><img src="https://stackoverflow.com/users/flair/21376217.png?theme=hotdog" width="208" height="58" align="right"></a>
 
 - [Bilibili](https://space.bilibili.com/27958784) — My Bilibili account
-- [G mail](mailto:sngrotesque@gmail.com) - My Google email address
+- [Gmail](mailto:sngrotesque@gmail.com) — My Google email address
 
----
+# 🤝 Collaboration
 
-# Collaboration
+Currently, I do not consider any form of collaboration, only commissioned work.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngrotesque&title_color=ffff00&bg_color=151515&text_color=efefef&hide_border=true&layout=compact" align="right">
+If you really have a great idea for collaboration, feel free to suggest it to me (contact above).
 
-I am **not accepting any form of collaboration at the moment — only commissions**.  
-I am **not accepting any form of collaboration at the moment — only commissions**.  
-I am **not accepting any form of collaboration at the moment — only commissions**.  
-I am **not accepting any form of collaboration at the moment — only commissions**.  
-I am **not accepting any form of collaboration at the moment — only commissions**.  
-I am **not accepting any form of collaboration at the moment — only commissions**.
+# 🛠️ Other
 
----
-
-# Other
-
-I have experience in embedded development (including PCB design and assembly), mainly using **STM32F103** with **Keil**.
+I have experience in embedded development (including PCB design and assembly), mainly based on **STM32F103** and **Keil**.
 
 Not much else to say.  
-Just this: **C++ Yes!**
+What remains is: **C++ Yes!**
