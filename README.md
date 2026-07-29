@@ -25,7 +25,7 @@
 # 📦 主要项目
 
 1. [The Wizard's Universal Key](https://github.com/sngrotesque/wizard_key)  
-    这个项目我写了至少三年。  
+    这个项目我写了两年。  
     它曾经承载了我“想做所有事情”的想法，但最终我意识到：  
     **聚焦细分领域比试图做一个万能工具更重要。**
 
@@ -37,10 +37,8 @@
     将主要聚焦于 **Unreal engine** / **Unity** 开发的游戏。  
     如果可能，我希望它能成为一个尽可能通用的游戏分析框架——虽然这非常困难，但值得尝试。
 
-3. [Common Vulnerability Exploit](https://github.com/sngrotesque/CVE_CommonVulnerabilityExploit)  
-    这里收集了我整理的所有 Nday 漏洞 PoC / Exploit。  
-    大部分来自公开披露的 **CVE**，也有少部分未获得编号。  
-    用于学习、研究与安全分析。
+3. [HashAll](https://github.com/sngrotesque/HashAll)  
+    一款用于替代 `xxx-sum` (`sha256sum` / `md5sum`) 的文件哈希工具。
 
 4. [CS2 Die to play](https://github.com/sngrotesque/CS2_Die2Play)
     一款 CS2 对局中死亡后自动刷抖音的程序，复活时切回游戏。  

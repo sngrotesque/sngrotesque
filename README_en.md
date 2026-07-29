@@ -25,7 +25,7 @@ Don't panic if you can't find the files for these verification purposes, as they
 # 📦 Main Projects
 
 1. [The Wizard's Universal Key](https://github.com/sngrotesque/wizard_key)  
-   I worked on this project for at least three years.  
+   I have been working on this project for two years.  
    It once carried my ambition to "do everything," but eventually I realized:  
    **Focusing on specific areas is more important than trying to build a universal tool.**
 
@@ -37,10 +37,8 @@ Don't panic if you can't find the files for these verification purposes, as they
    It will primarily target games developed with **Unreal Engine** / **Unity**.  
    If possible, I hope it can become a versatile game analysis framework—though it's extremely difficult, it's worth attempting.
 
-3. [Common Vulnerability Exploit](https://github.com/sngrotesque/CVE_CommonVulnerabilityExploit)  
-   Here I collect all the Nday vulnerability PoCs / Exploits I've organized.  
-   Most come from publicly disclosed **CVEs**, and some do not have assigned IDs.  
-   Used for learning, research, and security analysis.
+3. [HashAll](https://github.com/sngrotesque/HashAll)  
+   A file hash tool used as a replacement for `xxx-sum` (`sha256sum` / `md5sum`).
 
 4. [CS2 Die to Play](https://github.com/sngrotesque/CS2_Die2Play)  
    A program that automatically opens Douyin (TikTok) when you die in a CS2 match, and switches back to the game upon respawn.  
