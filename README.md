@@ -17,14 +17,14 @@
     此项目使用内核态驱动 + 用户态进程的方式通信，以尽可能的绕过游戏反作弊的检测。  
     包含的功能（一小部分）：枚举和 Dump 进程模块，Game Dumper，Dll 注入。
 
-2. [CS2 Die to play](https://github.com/sngrotesque/CS2_Die2Play)
+2. [CS2 Die to play](https://github.com/sngrotesque/CS2_Die2Play)  
     一款 CS2 对局中死亡后自动刷抖音的程序，复活时切回游戏。  
     支持 自定义网址 / 更换壁纸 等，使用 Flutter 框架编写，支持 Windows 平台。
 
 3. [HashAll](https://github.com/sngrotesque/HashAll)  
     一款用于替代 `xxx-sum` (`sha256sum` / `md5sum`) 的文件哈希工具，使用 C++ 结合 OpenSSL 库实现。
 
-4. [CopyPath](https://github.com/sngrotesque/ContextMenu_CopyPath)
+4. [CopyPath](https://github.com/sngrotesque/ContextMenu_CopyPath)  
     一款常驻于右键菜单的路径复制工具，未来可能会添加更多功能。
 
 5. [The Wizard's Universal Key (wizard_key)](https://github.com/sngrotesque/wizard_key)  
