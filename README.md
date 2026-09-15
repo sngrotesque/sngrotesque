@@ -1,33 +1,45 @@
-# 语言（中文 / [English](README_en.md)）
+语言：（中文 / [English](README_en.md)）
 
 # 关于
 
 你好，我是 **栀子鱼鱼花**，也可以叫我 **SN-Grotesque** / **SN**。  
 
 我是一名开发者，主要聚焦于 C++ 和安全层面（游戏安全，网络安全，二进制安全，Web安全）。  
-曾经是一位音乐制作者，现如今更愿意投入视频制作行列。  
+曾经是一位音乐制作者和游戏开发者，现如今更愿意投入视频制作行列。  
 编程语言层面主要使用 C++ 和 Python 两门语言，其他辅助语言有如 Dart / Kotlin / C# / Shell 等。  
 追求使用最短代码实现最高质量的软件工程。
 
 # 📦 主要项目
 
 1. [Cheat kernel](https://github.com/sngrotesque/CheatKernel)  
-    这是我正在使用 C++ 编写的一款**游戏作弊内核**，目前暂不考虑开源。  
+    这是我正在使用 C++ 编写的一款 **游戏作弊内核**，目前暂 **不考虑开源**。  
     将主要聚焦于 **Unreal engine** / **Unity** / **Source 2** 开发的游戏。  
-    此项目使用内核态驱动 + 用户态进程的方式通信，以尽可能的绕过游戏反作弊的检测。  
-    包含的功能（一小部分）：枚举和 Dump 进程模块，Game Dumper，Dll 注入。
+    此项目使用内核态驱动 + 用户态进程的方式通信，以尽可能的绕过游戏反作弊的检测。
 
-2. [CS2 Die to play](https://github.com/sngrotesque/CS2_Die2Play)  
+2. [OP4](https://github.com/sngrotesque/OP4-Cipher)  
+    这是我自己开发的块密码算法，追求使用最简单的方式实现高安全性的加密。  
+    添加了 **SIMD** 支持，**AVX2** 测试性能超过 OpenSSL 中的 **ChaCha20**。
+    实际场景下请使用 `AES` / `ChaCha20` 等经过充分测试的加密算法。
+
+3. [KanamiChat](https://github.com/sngrotesque/KanamiChat)  
+    使用 Flutter 框架编写的多平台 AI 聊天软件，未来会支持更多的角色。  
+    此项目当前不属于我的主要开发项目，请期待未来的更新。  
+
+    目前支持的角色如下：
+    - 香奈美（卡拉彼丘）
+    - 星绘（卡拉彼丘）
+
+4. [CS2 Die to play](https://github.com/sngrotesque/CS2_Die2Play)  
     一款 CS2 对局中死亡后自动刷抖音的程序，复活时切回游戏。  
     支持 自定义网址 / 更换壁纸 等，使用 Flutter 框架编写，支持 Windows 平台。
 
-3. [HashAll](https://github.com/sngrotesque/HashAll)  
+5. [HashAll](https://github.com/sngrotesque/HashAll)  
     一款用于替代 `xxx-sum` (`sha256sum` / `md5sum`) 的文件哈希工具，使用 C++ 结合 OpenSSL 库实现。
 
-4. [CopyPath](https://github.com/sngrotesque/ContextMenu_CopyPath)  
+6. [CopyPath](https://github.com/sngrotesque/ContextMenu_CopyPath)  
     一款常驻于右键菜单的路径复制工具，未来可能会添加更多功能。
 
-5. [The Wizard's Universal Key (wizard_key)](https://github.com/sngrotesque/wizard_key)  
+7. [The Wizard's Universal Key (wizard_key)](https://github.com/sngrotesque/wizard_key)  
     这个项目我写了一年多，将近两年，它是我第一个尝试的正式编程项目，使用 C++ 编写。  
     它曾经承载了我“想做所有事情”的想法，但最终我意识到：“**聚焦细分领域比试图做一个万能工具更重要**”。  
     虽然目前已停止维护，但它让我在项目管理与代码质量方面成长了很多。
@@ -57,10 +69,3 @@
 目前不考虑任何形式的合作，只接单。
 
 或者你如果有实在觉得好的合作方面的想法，可以提给我试试看（联系方式在上面）。
-
-# 🛠️ 其他
-
-我做过嵌入式开发（含 PCB 设计与组装），主要基于 **STM32F103** 与 **Keil**。
-
-没有太多想说的了。  
-剩下的就是：**C++ Yes!**
