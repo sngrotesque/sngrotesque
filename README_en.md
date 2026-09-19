@@ -1,4 +1,4 @@
-Language: (中文 / [English](README_en.md))
+Language: ([中文](README.md) / English)
 
 # About
 
@@ -27,7 +27,7 @@ I strive to achieve the highest-quality software engineering with the shortest p
 
    Currently supported characters:
    - Kanami (Strinova)
-   - Hoshie (Strinova)
+   - HuiXing (Strinova)
 
 4. [CS2 Die to Play](https://github.com/sngrotesque/CS2_Die2Play)  
    A program that automatically opens Douyin when you die in a CS2 match, and switches back to the game upon respawn.  
