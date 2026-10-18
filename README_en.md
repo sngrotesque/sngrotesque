@@ -12,7 +12,7 @@ I strive to achieve the highest-quality software engineering with the shortest p
 # 📦 Main Projects
 
 1. [Cheat kernel](https://github.com/sngrotesque/CheatKernel)  
-   A **game cheat kernel** I'm writing in C++. Currently, **open-sourcing is not planned**.  
+   A **game cheat kernel** I'm writing in C++. Due to the particularity of the project, open source will not be considered.  
    It primarily targets games developed with **Unreal Engine** / **Unity** / **Source 2**.  
    This project uses kernel-mode drivers combined with a user-mode process for communication, in order to bypass game anti-cheat detection as much as possible.
 
